@@ -1,0 +1,22 @@
+{
+    "saveData": "Save Data",
+    "clearData": "Clear Data",
+    "savedInformation": "Saved Information",
+    "deleteData": "Delete Data",
+    "deleteAllData": "Delete All Data",
+    "dataForm": "Data Form",
+    "pleaseSelect": "Please Select",
+    "mr": "Mr.",
+    "mrs": "Mrs.",
+    "miss": "Miss",
+    "man": "Man",
+    "woman": "Woman",
+    "fullName": "Full Name",
+    "gender": "Gender",
+    "phoneNumber": "Phone Number",
+    "nationality": "Nationality",
+    "birthday":"birthday",
+    "passport":"passport",
+    "salary":"salary"
+  }
+  

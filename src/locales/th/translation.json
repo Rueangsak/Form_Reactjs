@@ -1,0 +1,22 @@
+{
+    "saveData": "บันทึกข้อมูล",
+    "clearData": "ล้างข้อมูล",
+    "savedInformation": "ข้อมูลที่บันทึกแล้ว",
+    "deleteData": "ลบข้อมูล",
+    "deleteAllData": "ลบข้อมูลทั้งหมด",
+    "dataForm": "แบบฟอร์มข้อมูล",
+    "pleaseSelect": "โปรดเลือก",
+    "mr": "นาย",
+    "mrs": "นาง",
+    "miss": "นางสาว",
+    "man": "ผู้ชาย",
+    "woman": "ผู้หญิง",
+    "fullName": "ชื่อ",
+    "gender": "เพศ",
+    "phoneNumber": "หมายเลขโทรศัพท์",
+    "nationality": "สัญชาติ",
+    "birthday":"วันเกิด",
+    "passport":"หนังสือเดินทาง",
+    "salary":"เงินเดือน"
+  }
+  
